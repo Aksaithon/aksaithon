@@ -1,8 +1,8 @@
 I'm a learner specializing in **typescript**, **3D**, and the **web**
 
-TOOLS
+TOOLS I use
 
-Today =>
+**Today**
 - React
 - Javascript
 - Typescript
@@ -11,7 +11,7 @@ Today =>
 - GitHub
 - Figma
 
-Tomorrow =>
+**Tomorrow** =>
 - WebXR
 - gltf
 - GLSL
