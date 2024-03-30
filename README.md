@@ -3,11 +3,8 @@ I'm a learner specializing in **typescript**, **3D**, and the **web**
 TOOLS I use
 
 **Today**
-- React
-- Javascript
-- Typescript
-- HTML
-- CSS
+- React - Javascript - Typescript
+- HTML - CSS
 - GitHub
 - Figma
 
@@ -15,5 +12,4 @@ TOOLS I use
 - WebXR
 - gltf
 - GLSL
-- Unity
-- Blender
+- Blender - Unity
